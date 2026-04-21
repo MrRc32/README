@@ -1,2 +1,2 @@
 # README
-Val Bole 1.A 2026
+Val Bole Tehnik Računalništva 1.a 2026
