@@ -1,3 +1,2 @@
 # README
-Val Bole Tehnik Računalništva 1.a 2026
-SIPOp
+Val Bole Tehnik Računalništva SIPOp 1.a 2026
